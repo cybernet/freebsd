@@ -1,2 +1,2 @@
-# freebsd
+# FreeBSD
 FreeBSD conf.d
